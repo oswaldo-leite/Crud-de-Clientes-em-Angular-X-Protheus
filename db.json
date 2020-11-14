@@ -1,0 +1,64 @@
+{
+  "clientes": [
+    {
+      "a1_cod": "1",
+      "a1_loja": "00",
+      "a1_nome": "Oswaldo",
+      "a1_nreduz": "Oswadao",
+      "a1_tipo": "Private",
+      "a1_end": "Rua Vieira Souto",
+      "a1_est": "RJ",
+      "a1_mun": "Rio de Janeiro"
+    },
+    {
+      "a1_cod": "5",
+      "a1_loja": "00",
+      "a1_nome": "Gertrudez",
+      "a1_nreduz": "Gege",
+      "a1_tipo": "Padaria",
+      "a1_end": "Visconde de Piraja 184",
+      "a1_est": "RJ",
+      "a1_mun": "Rio de Janeiro(cidade maravilhosa)"
+    },
+    {
+      "a1_cod": "6",
+      "a1_loja": "00",
+      "a1_nome": "Virgolino",
+      "a1_nreduz": "do mato pereira",
+      "a1_tipo": "",
+      "a1_end": "",
+      "a1_est": "",
+      "a1_mun": ""
+    },
+    {
+      "a1_cod": "101",
+      "a1_loja": "00",
+      "a1_nome": "Zuza",
+      "a1_nreduz": "",
+      "a1_tipo": "",
+      "a1_end": "",
+      "a1_est": "",
+      "a1_mun": ""
+    },
+    {
+      "a1_cod": null,
+      "a1_loja": null,
+      "a1_nome": "Sebastian",
+      "a1_nreduz": "WolfMaina",
+      "a1_tipo": null,
+      "a1_end": null,
+      "a1_est": null,
+      "a1_mun": null
+    },
+    {
+      "a1_cod": null,
+      "a1_loja": null,
+      "a1_nome": "Romildo",
+      "a1_nreduz": "Romulo Milton",
+      "a1_tipo": "Private",
+      "a1_end": "Rua feliz, 71",
+      "a1_est": "SP",
+      "a1_mun": "São Paulo"
+    }
+  ]
+}
